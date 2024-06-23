@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'CCMaladroit Bold';
+    src: url(../fonts/CCMaladroit\ W00\ Bold.woff) format(woff);
+}
+header {
+    background-color: antiquewhite;
+}
+.logo-text {
+    font-family: 'CCMaladroit Bold';
+    font-size: 100px;
+    padding-top: 40px;
+    letter-spacing: -15px;
+    color: white;
+    text-shadow: 0 0 3px black, 0 0 5px black, 0 0 5px black, 0 0 3px black;
+}
